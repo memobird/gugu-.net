@@ -1,0 +1,12 @@
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggApi\bin\Debug\ggApi.dll
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggApi\bin\Debug\ggApi.pdb
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggApi\obj\Debug\ggApi.dll
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggApi\obj\Debug\ggApi.pdb
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggApi\obj\Debug\ggApi.csprojResolveAssemblyReference.cache
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggApi\bin\Debug\ggApi.dll
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggApi\bin\Debug\ggApi.pdb
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggApi\bin\Debug\Common.dll
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggApi\bin\Debug\Common.pdb
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggApi\obj\Debug\ggApi.csprojResolveAssemblyReference.cache
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggApi\obj\Debug\ggApi.dll
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggApi\obj\Debug\ggApi.pdb

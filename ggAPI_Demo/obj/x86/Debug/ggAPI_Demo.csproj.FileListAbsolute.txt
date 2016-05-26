@@ -1,0 +1,30 @@
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggAPI_Demo.exe
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggAPI_Demo.pdb
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.Properties.Resources.resources
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.csproj.GenerateResource.Cache
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.exe
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.pdb
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.Form1.resources
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.csprojResolveAssemblyReference.cache
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggApi.dll
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggApi.pdb
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggAPI_Demo.exe.config
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\bin\Debug\Newtonsoft.Json.dll
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\bin\Debug\Common.dll
+E:\刘铭祥\项目\盈趣科技\信鸽\ggAPI_Demo\ggAPI_Demo\bin\Debug\Common.pdb
+E:\刘铭祥\项目\盈趣科技\信鸽\新建文件夹 (2)\ggAPI_Demo\bin\Debug\ggAPI_Demo.exe.config
+E:\刘铭祥\项目\盈趣科技\信鸽\新建文件夹 (2)\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.exe
+E:\刘铭祥\项目\盈趣科技\信鸽\新建文件夹 (2)\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.pdb
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggAPI_Demo.exe.config
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.exe
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.pdb
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.csprojResolveAssemblyReference.cache
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.Form1.resources
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.Properties.Resources.resources
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\obj\x86\Debug\ggAPI_Demo.csproj.GenerateResource.Cache
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggAPI_Demo.exe
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggAPI_Demo.pdb
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggApi.dll
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\bin\Debug\ggApi.pdb
+C:\Users\yq03880\Desktop\ggAPI_Demo\ggAPI_Demo\bin\Debug\Common.pdb
